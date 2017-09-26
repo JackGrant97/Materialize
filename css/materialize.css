@@ -5435,7 +5435,7 @@ button.btn-floating {
 }
 
 .dropdown-content {
-  background-color: #030303;
+  background-color: black;
   margin: 0;
   display: none;
   min-width: 100px;
@@ -5449,7 +5449,7 @@ button.btn-floating {
 
 .dropdown-content li {
   clear: both;
-  color: #030303;
+  color: rgba(0, 0, 0, 0.87);
   cursor: pointer;
   min-height: 50px;
   line-height: 1.5rem;
@@ -5463,7 +5463,7 @@ button.btn-floating {
 }
 
 .dropdown-content li.active.selected {
-  background-color: #030303;
+  background-color: #e1e1e1;
 }
 
 .dropdown-content li.divider {

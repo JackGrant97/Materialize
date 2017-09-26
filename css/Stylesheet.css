@@ -8,8 +8,7 @@ main {
   flex: 1 0 auto;
 }
 
-.nav
+.footer
 {
-  background-color: #030303;
-  color: #030303;
+  margin-top: 25%;
 }
