@@ -7,3 +7,9 @@ body {
 main {
   flex: 1 0 auto;
 }
+
+.nav
+{
+  background-color: #030303;
+  color: #030303;
+}
