@@ -10,5 +10,10 @@ main {
 
 .footer
 {
-  margin-top: 25%;
+  margin-top: 0.5%;
+}
+
+.w3-content
+{
+  padding-top: 1%;
 }
